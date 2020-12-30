@@ -1,0 +1,870 @@
+ 
+
+ 
+
+ 
+
+ 
+
+BACHELOR OF COMPUTER
+APPLICATIONS
+(BCA)
+
+(Revised Syllabus)
+
+ASSIGNMENTS
+
+(July - 2020 & January - 2021)
+
+MCS-011, MCS-012, MCS-015, MCS-013, BCSL-021,
+BCSL-022,
+
+d~\|ignou
+o THE PEOPLE'S
+UNIVERSITY
+
+SCHOOL OF COMPUTER AND INFORMATION SCIENCES
+INDIRA GANDHI NATIONAL OPEN UNIVERSITY
+MAIDAN GARHI, NEW DELHI - 110 068
+
+ 
+
+ 
+
+ 
+
+ 
+CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Course Code Assignment No. Submission-Schedule Page
+No.
+For July- For January-
+December Session June Session
+MCS-011 BCA(2)/011/Assignment/20-21 31 October, 2020 | 15™ April, 2021 4
+MCS-012 BCA(2)/012/Assignment/20-21 31 October, 2020 | 15" April, 2021 6
+MCS-015 BCA(2)/015/Assignment/20-21 31 October, 2020 | 15™ April, 2021 11
+MCS-013 BCA(2)/013/Assignment/20-21 31 October, 2020 | 15" April, 2021 16
+BCSL-021 BCA(2)/L-021/Assignment/20-21 31 October, 2020 | 15™ April, 2021 19
+BCSL-022 BCA(2)/L-022/Assignment/20-21 31" October, 2020 | 15™ April, 2021 20
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+date.
+
+ 
+
+Important Notes
+
+1. Submit your assignments to the Coordinator of your Study Centre on or before the due
+
+2. Assignment submission before due dates is compulsory to become eligible for appearing
+in corresponding Term End Examinations. For further details, please refer to BCA
+Programme Guide.
+
+3. To become eligible for appearmg the Term End Practical Examimation for the lab
+courses, it is essential to fulfill the minimum attendance requirements as well as
+submission of assignments (on or before the due date). For further details, please refer to
+the BCA Programme Guide.
+
+ 
+
+ 
+
+ 
+Course Code : ECO-02
+
+Course Title : Accountancy-1
+
+Assignment Number : BCA(2)/02/Assignment/2020-21
+Maximum Marks : 100
+
+Weightage : 25%
+
+Last Dates for Submission — : 31* October, 2020 (for July, 2020 session)
+
+15™ April, 2021(for January, 2021 session)
+
+Here is the link of assignment: https://webservices.ignou.ac.in/assignments/bcom.htm
+Course Code : MCS-011
+
+Course Title : Problem Solving and Programming
+Assignment Number : BCA(ID/011/Assignment/2020-21
+Maximum Marks : 100
+
+Weightage : 25%
+
+Last Date of Submission : 31* October, 2020 (for July, 2020 session)
+
+15" April, 2021(for January, 2021 session)
+
+There are eight questions in this assignment, which carry 80 marks. Rest 20
+marks are for viva-voce. Answer all the questions. You may use illustrations
+and diagrams to enhance the explanations. Please go through the guidelines
+regarding assignments given in the Programme Guide for the format of
+presentation. Insert comments in the code for better understanding.
+
+Ql. (10 Marks)
+
+Write an algorithm, draw a corresponding flowchart and write an interactive
+program to convert a decimal number to its hexadecimal equivalent.
+
+Q2. (10 Marks)
+
+Write a interactive C program to find the MINIMUM and MAXIMUM (value)
+array elements in a given 3X3 matrix.
+
+Q3. (2X 5 =10 Marks)
+
+Write the following functions that:
+
+a) Calculate simple interest.
+b) Calculate compound interest.
+
+Write a C (main) program to provide the above functions as options to the user
+using switch statement and performs the functions accordingly.
+
+Q4. (2% X 4 =10 Marks)
+
+Write the following string functions that:
+
+a) Replace a character in a given string with a character suggested by the user.
+b) Convert the given string into uppercase.
+c) Convert the alternate character into upper case.
+
+d) Check each and every character in the string and display whether it is an alphabet,
+
+digit or special character.
+
+Write a C (main) program to provide the above string functions as options to the
+user using switch statement and perform the functions accordingly.
+
+Q5. (10 Marks)
+
+Write a program to search a given string among the available strings, using
+Binary Search.
+Q7.
+
+Q8.
+
+(10 Marks)
+Using structures concept in C programming, write a program to calculate
+the daily wages for each worker (if 7 workers are employed in an iron and
+hardware shop) at an hourly basis of Rs.100/- @vith a constraint that each
+worker may be allowed maximum upto 4 hours only per day). It should
+display the name of the worker, date and total wages for that day.
+
+(10 Marks)
+Using pointers, find the sum of all the elements of a 3X3 matrix.
+
+(2 X 5 =10 Marks)
+Using file handling, write a C program:
+
+(a) To generate 10 records for MCA 1* semester students and store them in stu.dat
+along with appropriate fields.
+
+(b) To read the data from the file stu.dat (created above) and compute the total
+marks and average marks and display the grade(assumptions can be made).
+Course Code : MCS-012
+
+Course Title : Computer Organisation and Assembly
+Language Programming
+Assignment Number : BCA(2)/012/Assignment/2020-21
+Maximum Marks : 100
+Weightage : 25%
+Last Dates for Submission : 31* October, 2020 (For July, 2020 Session)
+: 15" April, 2021 (For January, 2021 Session)
+
+There are four questions in this assignment, which carries 80 marks, Rest 20 marks are for
+viva voce. You may use illustrations and diagrams to enhance the explanations. Please go
+through the guidelines regarding assignments given in the Programme Guide for the
+format of presentation. Answer to each part of the question should be confined to about
+300 words. Make suitable assumption, if any.
+
+Q1 (Covers Block 1)
+
+(a) Please refer to Figure 4 of Unit 1 of Block 1 on page 11 in respect of Instruction execution
+example. Assuming a similar machine is to be used for execution of the following three
+consecutive instructions: (you must read Block 2 and 3 also)
+
+LOAD C ; Loads the content of Memory location C into the Accumulator Register.
+ADD B_; Adds the content of memory location B from Accumulator Register.
+STORE A ; Stores the content of Accumulator register AC in memory location A.
+However, this machine is different from the example of Figure 4 in the following ways:
+Each memory word of this new machine is of 16 bits in length.
+Each instruction is of length 16 bits with 8 bits for operation code (opcode) and 8 bits for
+specifying one direct operand
+Main Memory has 256 words.
+The three consecutive instructions are placed starting from memory location (2A)n ;
+operand A is at location (D1) and contains a value (OOAA)n, Operand B is at location
+(D2)n and contains a value (BB3B)n and operand C is at location (D3)n and contains a
+value (2C2C)n.
+e The AC, IR and MBR registers are of size 16 bits, whereas PC and MAR registers are of
+size 8 bits. The initial content of PC register is (2A)h
+Draw the diagrams showing the following information:
+
+(i) Initial State of the machine with the addresses and content of memory locations in
+hexadecimal. Show only those address locations of the memory that store the instruction and
+data. Also show content of all the stated registers. (2 Marks)
+
+(ii) Draw three more diagrams, each showing the state of machine after execution of every
+instruction viz. LOAD, ADD and STORE. Show the changes in the values of Registers and
+memory location, if any, due to execution of instruction. Show all the addresses and values in
+hexadecimal notations. You must perform the necessary arithmetic using signed 2's
+complement notation and show the results indicating overflow, if any. (3 Marks)
+(b) Perform the following conversion of numbers: (2 Marks)
+i) Decimal (5467987690)10 to binary and hexadecimal
+ii) Hexadecimal (345ABCDE), into Octal.
+ili) String “Format \n is an escape” into UTF 8
+iv) Octal (7123456)o into Decimal
+
+(c) Simplify the following function using K-map: F(A, B, C, D) = 2 Q, 4, 6, 7, 10, 14)
+Draw the circuit for the function using NAND gates. (2 Marks)
+
+(d) Consider the Adder-Subtractor circuit as shown in Figure 3.15 page 76 of Block 1. Explain
+how this circuit will perform subtraction (A-B), if the value of A is 1011 and B is 1010. You
+must list all the bit values including Cin and Cout and overflow condition. (1 Mark)
+
+(ce) Explain the functioning of a 2x 4 Decoder. You should draw its truth table and explain its
+logic diagram with the help of an example input. (2 Marks)
+
+(f) Assume that a source data value 1001 was received at a destination as 1101. Show how
+Hamming's Error-Correcting code bits will be appended to source data, so this error of one
+bit is identified and corrected at the destination. You may assume that error while
+transmission occurs only in the source data and not the code. (2 Marks)
+
+(g) Explain functioning of J-K flip flop with the help of a logic diagram and characteristic table.
+Also explain the excitation table of this flip-flop. (2 Marks)
+
+(h) Explain the functioning of master-slave flip-flop and Synchronous counter with the help of a
+diagram of each. (2 Marks)
+
+(i) Represent (-57.125)10 and (0.00000025)10 in IEEE 754 single precision and double precision
+formats. (2 Marks)
+
+Q2 (covers Block 2)
+
+(a) Refer to the Figure 2(b) on page 8 in Unit 1 of Block 2. Draw the Internal organisation of a
+1288 RAM. Explain all the Input and Output of the organisation. Also answer the
+following:
+
+(i) How many data input and data output lines does this RAM needs? Explain your answer.
+(ii)How many address lines are needed for this RAM? Give reason in support of your answer.
+(2 Marks)
+
+(b) A computer has 4 GB RAM with each memory word of 64 bits. It has cache memory having
+1024 blocks having a size of 128 bits (2 memory words). Show how the main memory
+address (CLAAFOAB), will be mapped to cache address, if
+
+(i) Direct cache mapping is used
+(ii) Associative cache mapping is used
+(iii) Two way set associative cache mapping is used.
+
+You should show the size of tag, index, main memory block address and offset in your
+answer. (3 Marks)
+
+(c) What is Memory mapped I/O? How is it different to Isolated I/O? Also explain the steps of
+the process of interrupt processing. (3 Marks)
+
+(d) What is Programmed I/O? Explain with the help of a flowchart. Differentiate between the
+working of Programmed I/O with DMA. (2 Marks)
+
+(ec) Assume that a disk has 256 tracks, with each track having 64 sectors and each sector is of
+size 4M. The cluster size in this system can be assumed to be 4 sectors. A file having the
+name MCS012.txt is of size 128 M. Assume that disk has 16 free - continuous clusters of 8
+sectors each. How can this file be allotted space on the disk? Also show the content of FAT
+after the space allocation to this file. You may make suitable assumptions. (4 Marks)
+
+(f) Explain the following, giving their uses and advantages/disadvantages.
+(Word limit for answer of each part is 50 words ONLY) (6 Marks)
+(i) SCSI Controllers
+(ii) Removable Disks
+(iii) Colour Depth in the context of video cards
+(iv) Input/ Output Processor
+(v) Latency time and average data transfer rate
+(vi) Address space and memory space in Virtual memory
+
+Q3 (Covers Block 3)
+
+(a) A computer has a single processor of one core. It has 16 general purpose registers. The
+machine has 64 KB RAM. The size of each register and memory word is 32 bits. The
+computer uses fixed length instructions of size 32 bits each. An instruction of the machine
+can have two operands — the first operand is a memory operand and the second operand is a
+register operand (register operand can be a general purpose register). Memory operand uses
+direct addressing, however, register operand use either register direct or register indirect
+addressing. (Please note that if register operand uses register indirect addressing, then the
+stated register contains the address of the operand in the memory.) An instruction of a
+machine consists of bits for operation code, one bit for addressing mode, bits for one
+memory operand and bits for one register operand. The machine has about 200 different
+operation codes. The addressing mode bits specifies addressing mode as:
+
+ 
+
+Addressing mode bit | Register Operand | Memory Operand
+0 Indirect Direct
+1 Direct Direct
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The special purpose registers, which are other than general purpose registers, are - Program
+Counter (PC), Memory Address Register (MAR), Data Register (DR) and Flag registers
+(FR). The First register of the general purpose registers can be used as Accumulator Register.
+The size of Integer operands on the machine may be assumed to be equal to the size of
+accumulator register. In order to execute instructions the machine has another special register
+called Instruction Register (IR) of size 32 bits, as each instruction is of this size. Perform the
+following tasks for the machine. (Make and state suitable assumptions, if any.)
+
+(i) Design suitable instruction formats for the machine. Specify the size of different fields
+that are needed in the instruction format. Also indicate how many bits of the instructions
+are unused for this machine. Explain your design of instruction format. (3 Marks)
+
+(ii) List at least two valid instructions, and put some valid data values in registers and
+memory locations, and demonstrate examples of different addressing modes for this
+machine. (2 Marks)
+
+(ii) Assuming that the instructions are first fetched to Instruction Register (IR), memory
+operand is brought to DR register, and result of an operation is stored in the Accumulator
+register; write and explain the sequence of micro-operations that are required to fetch and
+execute an instruction, which performs addition of two operands having addressing mode
+bits as 1. Please note that one of the operand is direct memory operand and second is an
+Register Operand. Make and state suitable assumptions, if any. (5 Marks)
+
+(b) Assume that you have a machine as shown in section 3.2.2 of Block 3 having the micro-
+operations as given in Figure 10 on page 62 of Block 3. Consider that R1 and R2 both are 8
+bit registers and contains 01010101 and 10011010 respectively. What will be the values of
+select inputs, carry-in input and result of operation (including carry out bit) if the following
+micro-operations are performed? (For each micro-operation you may assume the initial
+value of R1 and R2 as given above) (2 Marks)
+(i) Increment R1
+(ii) Subtract R2 from R1 with borrow
+(iii)Exclusive OR of R1 and R2
+(iv) Shift left R1
+
+(c) Explain the Instruction pipelining. Also explain the problems of instruction pipelining.
+(3 Marks)
+
+(d) Explain the organisation of control memory with the help of a diagram. Also differentiate
+between Horizontal and vertical micro-instructions. (2 Marks)
+
+(e) What are the advantages of Large Register file in RISC? Explain with the help of a diagram.
+Also explain the concept of RISC pipelining. (3 Marks)
+
+Q4 (Covers Block 4)
+
+(a) Write a program using 8086 assembly Language (with proper comments) that accepts a
+single character input from the keyboard, if this character is '+' then the program adds two
+six byte arrays stored in the memory into a third array in the memory, otherwise program
+simply terminates. Make suitable assumptions, if any. (The effect of addition should be
+similar to the array operation like:
+
+for i=1 to 6 {Cfi]=Afi]+Bfi};} ) (7 Marks)
+(b) Write a program using 8086 assembly Language (with proper comments) that finds the top
+two values in an array of positive numbers stored in an array of size 10. (7 Marks)
+
+(c) Explain the following in the context of 8086 Microprocessor: (6 Marks)
+(i) Physical address calculation using CS:IP and SS:SP pairs
+(ii) Processing of software Interrupts in 8086 microprocessor
+(iii) Indirect Addressing modes of 8086 microprocessor
+
+10
+Course Code : MCS-015
+
+Course Title : Communication Skills
+Assignment Number : BCA(2)/015/Assignment/2020-21
+Maximum Marks : 100
+Weightage : 25%
+Last Dates for Submission : 31* October, 2020 (For July, 2020 Session)
+: 15" April, 2021 (For January, 2021 Session)
+
+This assignment has seven questions. Answer all questions. Please go through the
+guidelines regarding assignments given in the Programme Guide for the format of
+presentation.
+
+Ql:
+
+Read the passage below and answer the questions that follow:
+
+Whatever the type of job interview — a walk-in, a telephone interview or a regular in-person
+job interview, preparation is the key. It is important that you keep yourself in a state of high
+motivation and readiness, making optimum use of your time to equip yourself to excel. Here are
+a few things you'd like to do for sure, by way of preparation.
+
+You are certain to be asked specific questions about your potential employer, so make sure
+you've done your homework on company information like company history, recent
+performance, their last year's profits and latest product launches. Nothing is as disappointing as
+when a candidate shows enthusiasm and then doesn’t even know the most basic facts and
+figures about the company. So, where can you find all this information? The most likely place
+is the Internet. A visit to the company website could help you get all the vital statistics,
+including products and services as well as a feel of the company culture. You must also check
+out the annual report and look for a press or company news page. Put their name into a search
+engine to see if they’ve had any recent interesting stories written about them. It is also advisable
+to tap industry sources, trade journals, newspapers and other business publications to give you
+good background knowledge of the industry as well as the company.
+
+Talk to people who work in the company or in similar companies / areas to gather as much
+information as you can about the nature of work, responsibilities, work culture and work
+requirements.
+
+For the interview, you need to know your CV inside out. Go through your CV carefully and
+make notes on how you will elaborate or illustrate what you have stated. You need to be ready
+with examples from your experience to be able to substantiate all the claims you have made.
+Try to relate specific areas of your CV back to the job description. It will make it clear to the
+interviewer why they should hire you. Also go through the copy of your application carefully
+before the interview. The interview panel is likely to ask specific questions about it.
+
+11
+Going for a job interview is no different from going for an exam. It is important that you go
+well prepared and confident so that you can field any question that is put to you.
+
+Before the Interview
+
+Apart from finding out about the company and being thorough with your CV, it would be
+helpful to follow these tips:
+
+e Make a rational assessment of yourself before you go for the interview. Know your
+strengths and weaknesses.
+
+Review your skills and abilities.
+
+Have a mock interview with a friend based on the common interview questions you're
+likely to face.
+
+e If you are asked to bring certificates, references, etc, get them ready well in advance to
+avoid having to chase around them on the morning of the big day.
+
+e If you have filled up a statement of purpose as part of the application, be ready for some
+probing questions based on this.
+Be sure you know the time, date and location of the interview.
+Decide how you will get there and when you need to set off to arrive in good time,
+anticipating any delays. Visit the place once beforehand if possible.
+
+e = If you look good, you tend to feel good too. Avoid any last minute panic by preparing what
+you're going to wear the night before.
+
+e Don’t go into the interview with lots of baggage - psychological or physical. Take the bare
+minimum with you so you can concentrate on the interview, and nothing else.
+
+e Prepare at least 5 questions that you would like to ask the panel about the company or your
+job. You don’t have to ask them all. See for yourself what is most appropriate to ask during
+the interview.
+
+(a) What should be your state of mind when getting ready for a job interview? (2 Marks)
+
+(b) Why do you need to do adequate homework about the company where you (2 Marks)
+have been called for an interview?
+
+(c) What sort of information can you get about the company from the internet? (2 Marks)
+(d) Going for an interview is just like going for an exam? Discuss. (2 Marks)
+
+(ec) Regarding the tips given in the passage which is the most useful for you and (2 Marks)
+why.
+
+12
+Q?:
+Find words from the passage that mean the same as the following: (10 Marks)
+
+(a) The state of being prepared for something
+(b) To the maximum
+
+(c) To stand out
+
+(d) Possible in the future
+
+(ec) Eagerness
+
+(f) Most important
+
+(g) Give details
+
+(h) Objective and reasonable
+
+(i) Searching
+
+G) Being aware of
+
+Q3:
+Identify the part of the sentence which is grammatically incorrect: (5 Marks)
+
+(1) Even in thick fog, (2) the tower of the Taj (3) can be seen clearly (4) and
+so do those of the Agra fort.
+
+(1) The ship had sank (2) in the Pacific (3) before the distress signal (4) was
+sent.
+
+(1) Rajiv drove (2) as fastly as he could (3) but failed to (4) overtake the
+train.
+
+(1) I don’t wish (2) to buy a new camera (3) as my old one (4) works perfect.
+
+(1) The meanings of certain (2) difficult terms and phrases (3) are given (4)
+in the bottom of the page.
+
+Q4:
+Rewrite these sentences beginning with the words given below. (5 Marks)
+
+(a) The crop have been destroyed due to heavy rainfall.
+Heavy rainfall... .................
+(b) We will hold the meeting on 9" of this month.
+The meeting....................
+(c) The farm is being sold.
+They ate ........... cee
+(d) You are requested to maintain silence.
+Please ......... 00.600 .cee
+(ec) The college has organized an inter-school debate competition.
+An inter-school....................
+
+13
+Q5:
+
+Fill in the blanks with a/an, the or no article 0.
+
+The larger ........ meeting, the more difficult it becomes to reach at
+decision. ........ ideal size of ........ meeting depends on........ purpose of
+Levees meeting. If........ meeting has been called to give........ information
+
+to the members, the number of participants do not matter. But if
+
+meeting has been called to take........ decision on any matter, it is advisable
+
+to call just........ few individuals for it.
+
+All... meetings have something in........ common. ........
+important feature is ........ agenda. The next is the role of
+
+Chairperson. ........ efficient chairperson will adhere to ........ agenda and
+time and focus only on........ purpose, and ........ reaching desired
+
+objectives of the meeting.
+Q6:
+Write short notes on the following:
+(a) Aneffective job interview
+(b) How to overcome panic while presenting?
+
+Q?7:
+
+Write an essay in 250 to 300 words on any one of the following:
+
+e The impact of social media on citizens
+e Importance of body language in presentations
+e Aneffective way of taking minutes for any meeting
+
+Qs:
+
+Mark the stress in the following words:
+
+examine examination
+academic academician
+favourite favoritism
+exhibit exhibition
+govern government
+
+14
+
+(10 Marks)
+
+(10 Marks)
+
+(20 Marks)
+
+(10 Marks)
+Q9:
+
+Write a conversation between you and your grandparents. Discuss how people (10 Marks)
+have, over the years, changed the way they spend their leisure time.
+
+Grandfather: We would usually spend our leisure time reading a book or
+chatting with friends.
+
+You:
+
+(Take about ten turns).
+
+Q10:
+Write a letter to a friend about your new job in an IT corporate company. Talk (10 Marks)
+
+about the type of work that you do and the satisfaction that you derive from it.
+Also talk about your colleagues. Write in about 150 words.
+
+15
+Course Code : MCS-013
+
+Course Title : Discrete Mathematics
+
+Assignment Number : BCA(2)/013/Assignment/2020-21
+Maximum Marks : 100
+
+Weightage : 25%
+
+Last Dates for Submission : 31° October, 2020 (For July, 2020 Session)
+
+15™ April, 2021 (For January, 2021 Session)
+
+There are eight questions in this assignment, which carries 80 marks. Rest 20 marks are for
+viva-voce. Answer all the questions. You may use illustrations and diagrams to enhance the
+explanations. Please go through the guidelines regarding assignments given in the
+
+Programme Guide for the format of presentation.
+
+Ql.
+(a) State and explain De Morgan’s law for Boolean algebra.
+(b) Make truth table for followings.
+
+i) po@ v~t) A A~T)
+
+i) pot v gq) ACP Ar)
+
+(c) Give geometric representation for followings:
+i) Rx {2,-4}
+ii) {5,5)x (-2, -2)
+
+Q2.
+
+(a) Draw a Venn diagram to represent followings:
+ij) (ANBYC)A(ANBNC)
+ii) (ANBO C) O(AYBNC)
+
+(2 Marks)
+(4 Marks)
+
+(4 Marks)
+
+(3 Marks)
+
+(b) Write down suitable mathematical statement that can be represented by the following
+
+symbolic properties.
+i) (Ax) (Ay)( Vz)Q
+i) V @ (Ay) (a2)P
+
+(c) Show whether V2 is rational or irrational.
+
+(d) Explain circular permutation with the help of an example.
+
+Q3.
+
+(a) Explain inclusion-exclusion principle with example.
+
+(b) Make logic circuit for the following Boolean expressions:
+i) (xyz) + ('y'z) +(xtytz)
+ii) (x'yzZ) (xyzZ') (@x'y'Z)
+
+(c) What is a tautology? If P and Q are statements, show whether the statement
+(P > Q)A(Q > P) isa tautology or not.
+
+16
+
+(2 Marks)
+
+(3 Marks)
+
+(2 Marks)
+
+(2 Marks)
+
+(4 Marks)
+
+(4 Marks)
+Q4.
+(a) How many words can be formed using letter of UNIVERSITY using each letter at most
+
+once?
+i) If each letter must be used,
+ii) If some or all the letters may be omitted. (3 Marks)
+(b) Show whetherP>Q and (~P v Q) are equivalent or not (3 Marks)
+(c)Prove that 1? +27+37+ ...+n? = n(n+1(2n+1)/6 ;V ne N (4 Marks)
+Q35.
+
+(a) How many different professionals committees of 12 people can be formed, cach containing
+at least 4Doctor, at least 3 Public Servant and 2 ICT Experts from list of 10 Doctors,8Public
+
+Servant and 10 ICT Experts? (3 Marks)
+(b) A and B are mutually exclusive events suchthat P(A) = 0.4 and P(B) = 0.5. What is the
+probability that either A or B does not occur. (2 Marks)
+(c)Explain whether (p V q) > (q > n) isa tautology or not. (3 Marks)
+(d)Prove that the inverse of one-one onto mapping is unique. (2 Marks)
+Q6.
+
+(a) How many ways are there to distribute 11 district objects into 6 distinct boxes with:
+i) At least two empty box.
+
+ii) No empty box. (2 Marks)
+(b)Explain proof by contradiction, with the help of an example. (2 Marks)
+(c)Set A,B and C are: (4 Marks)
+
+A= 1, 2, 3,4, 5,7,8,9,12,15,173, B = { 1,2, 3 .4, 5,6,7, 9,10 } and
+C=£{ 2, 5,7,9,10,11, 13,14}.
+Find A VBUC,A UB ANC, A NBon Cand (A~C).
+
+(d) what is power set ? Find power set of set A ={a,¢,i,0,u). (2 Marks)
+
+Q7.
+
+(a) Find how many 3 digit numbers are odd? (2 Marks)
+
+(b) A coin is tossed n times. What is the probability of getting exactly r heads? (2 Marks)
+
+(c) What is relation? Explain difference between relation and function with the help of example.
+Also explain transitive relation with the help of example. (4 Marks)
+
+(d) Write the following statements in symbolic form: (2 Marks)
+
+i) If you work hard you get success
+ii) Either do physical exercise or be ready for poor health
+
+ 
+
+Qs.
+(a) Find inverse of the following function: (3 Marks)
+745
+f(x) = ~ x#3
+x
+(b) Explain under what conditions on sets A and B is AxB=BxA?. (2 Marks)
+
+17
+(c) Find dual of Boolean Expression for the output of the following logic circuit. (3 Marks)
+
+x,
+
+X,—|
+X3—>
+ma
+
+(d) Make Pascal's triangle up to n = 6. (2 Marks)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18
+Course Code : BCSL-021
+
+Course Title : C Language Programming
+Assignment Number : BCA(2)/L-021/Assignment/2020-21
+Maximum Marks : 50
+Weightage : 25%
+Last date of Submission : 31* October, 2020 (For July, 2020 Session)
+: 15" April, 2021 (For January, 2021 Session)
+
+This assignment has one question. Answer the question. This question carries 40
+marks. Rest 10 marks are for viva-voce. You may use illustrations and diagrams to
+enhance the explanation. Please go through the guidelines regarding the assignments
+given in the programme guide for the format of presentation.
+
+Ql.
+
+Write an interactive C program for “BCA Student Semester-End Results” which
+prompts the user with the following menu options on the opening menu and
+performs the corresponding functionalities:
+
+1) Registration Status (Registration details like enrolment no, current semester,
+fee-details, study centre, regional centre etc)
+
+2) Courses in the Current Semester
+
+3) Assignment Submission Schedules
+
+4) Assignment Marks (semester-wise, course-wise till current semester)
+
+5) Term End Exam Marks(semester-wise, course-wise till current semester)
+
+6) Quit
+
+Enter your choice:
+(40 Marks)
+
+Note: You must execute the program and submit the program logic, complete C code for
+
+the assignment question, sample input and output, screenshots along with the
+necessary documentation for this practical question.
+
+19
+Course Code : BCSL-022
+
+Course Title : Assembly Language Programming Lab
+Assignment Number : BCA(2)/BCSL022/Assign/2020-21
+Maximum Marks : 50
+Weightage : 25%
+Last Dates for Submission : 31* October, 2020 (For July, 2020 Session)
+
+: 15" April, 2021 (For January, 2021 Session)
+
+This assignment has two questions of total of 40 marks. Rest 10 marks are for viva voce.
+Please go through the guidelines regarding assignments given in the programme guide for
+the format of presentation.
+
+Q1: (10 Marks)
+
+Design a two bit down counter circuit that counts from 3 to 0. It should have states 11, 10, 01,
+and 00. The initial state of the counter may be assumed to be 11. The counter will be in
+following successive states: 11, 10, 01, 00, 11, 10, 01, 00, 11,... Use J-K flip flop to design the
+circuit. You must design the circuit using state transition diagram and Karnaugh's maps.
+
+Q?2: (3*10 = 30 Marks)
+
+Write and run following programs using 8086 assembly language.
+
+(a) Write and run a 8086 Assembly language program that converts a three digit ASCII number
+stored in three consecutive byte locations in the memory, into a binary number. The output
+should be stored in DX register. For example, if three consecutive byte locations contain
+'345' (please note they are three ASCII digits), then the DX should get binary equivalent of
+decimal number 543, which is (0000 0010 0001 1111)2. This binary value will be stored in
+DX register.
+
+(b) Write and run (using appropriate calling program) a near procedure in 8086 assembly
+language, which is passed a single parameter by the calling program. The procedure checks
+if the input parameter has a value zero or not. If the value of input parameter is zero then
+procedure/program is terminated, otherwise a value of 1 is returned to the calling program,
+which then continue to execute the remaining program. Make and state suitable assumptions,
+if any.
+
+(c) Write and run a 8086 assembly language program that finds the sum of first N natural
+numbers. The value of N is input to the assembly program. The sum is stored in DX register.
+Assume the value of N between 1 and 10 only.
+
+20
+
